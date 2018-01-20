@@ -1,7 +1,7 @@
 # K-Means-Clustering
 I implemented the K-Means Clustering Model to Analyse the Data in Python and R
 
-## The steps need to be followed are :
+## The steps I followed are :
 - Choose the number K of the clusters
 - Select at random K points , the centroids ( not necessarily from your dataset )
 - Assign each data point to the closest centroid - That forms K cluster [ We basically take Eucleidan distance ]
@@ -16,3 +16,5 @@ I implemented the K-Means Clustering Model to Analyse the Data in Python and R
 [ to know abut the <- operator I used in R ](https://www.statmethods.net/management/operators.html)
 
 ![down](https://upload.wikimedia.org/wikipedia/commons/e/ea/K-means_convergence.gif)
+
+# It is a Interative process
